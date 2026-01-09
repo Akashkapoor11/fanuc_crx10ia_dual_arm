@@ -239,9 +239,3 @@ The dual-arm system consists of:
 ## 📄 License
 
 Apache-2.0 License
-
----
-
-## 📞 Support
-
-For questions or issues, please contact via the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScLn8vbOOfkgdmKKHCo8Y6koduTEqFonfc_rK26ZcmakbCuZQ/viewform) provided in the screening instructions.
