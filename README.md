@@ -232,10 +232,4 @@ The dual-arm system consists of:
 - Created extensible control framework
 - Documented design decisions
 
----
 
-
-
-## 📄 License
-
-Apache-2.0 License
