@@ -181,7 +181,6 @@ The dual-arm system consists of:
 
 ## 📝 Technical Report
 
-See [docs/technical_report.md](docs/technical_report.md) for detailed technical documentation including:
 - Architecture overview and system diagrams
 - Challenges faced and solutions implemented
 - Design choices and assumptions
