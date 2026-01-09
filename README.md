@@ -1,10 +1,5 @@
 # Fanuc Dual-Arm CRX-10iA ROS2 System
 
-**Author**: Akash Kapoor
-**Email**: akash.kapoor@example.com
-**Date**: January 2026
-**Project**: DexSent Robotics Second Round Technical Screening
-
 A complete ROS2-based dual-arm collaborative robot system featuring two Fanuc CRX-10iA robots mounted at ±45° angles with Robotiq Hand-E grippers, implementing synchronized Cartesian control and collision avoidance.
 
 ---
@@ -182,12 +177,6 @@ The dual-arm system consists of:
 
 🎥 **[Link to Demo Video](YOUR_VIDEO_LINK_HERE)**
 
-The demo video (3-5 minutes) includes:
-1. Introduction and system overview
-2. Task 1: Dual-arm setup and simple motion demonstration
-3. Task 2: Synchronized Cartesian control (circle drawing)
-4. Technical decisions and implementation highlights
-
 ---
 
 ## 📝 Technical Report
@@ -246,25 +235,11 @@ See [docs/technical_report.md](docs/technical_report.md) for detailed technical 
 
 ---
 
-## 👤 Author
 
-**Akash Kapoor**
-- Email: akashkapoor12004@gmail.com
-- GitHub: [akashkapoor12004](https://github.com/akashkapoor12004)
-
----
 
 ## 📄 License
 
 Apache-2.0 License
-
----
-
-## 🙏 Acknowledgments
-
-- Fanuc CRX-10iA URDF files from [urdf_files_dataset](https://github.com/Daniella1/urdf_files_dataset)
-- ROS2 and MoveIt 2 communities
-- DexSent Robotics for the opportunity
 
 ---
 
