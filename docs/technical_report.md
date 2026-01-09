@@ -251,6 +251,3 @@ The implementation provides a solid foundation for dual-arm manipulation tasks w
 4. Robotiq Hand-E Gripper Specifications: https://robotiq.com/products/hand-e-adaptive-gripper
 5. DexSent Robotics Screening Instructions: [Notion Page]
 
----
-
-**End of Technical Report**
