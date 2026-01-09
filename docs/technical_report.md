@@ -1,8 +1,7 @@
 # Technical Report
 ## Fanuc CRX-10iA Dual-Arm System
 
-**Author**: Akash Kapoor  
-**Date**: January 2026  
+**Author**: Akash Kapoor   
 **Project**: DexSent Robotics Second Round Technical Screening
 
 ---
