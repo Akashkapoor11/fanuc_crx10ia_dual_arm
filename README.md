@@ -175,7 +175,7 @@ The dual-arm system consists of:
 
 ## 📊 Demo Video
 
-🎥 **[Link to Demo Video](YOUR_VIDEO_LINK_HERE)**
+🎥 **[Link to Demo Video](https://youtu.be/eSFnOIShB-o)**
 
 ---
 
